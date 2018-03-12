@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>My First HTML document</title>
+  <meta charset="utf-8">
+</head>
+<body>
+
+<h1 style="color:blue;">This is my header</h1>
+<hr>
+<h2 style="color:Green;">This is my second heading</h2>
+<hr>
+<a href=http://www.livingfornaptime.com/blogging-tips/use-name-domain-name/>This is a link</a>
+
+<p title="My First paragraph">My First paragraph</p>
+
+<img src="booby.jpg" alt="Boobies missing" width="600" height="500">
+
+</body>
+</html>
